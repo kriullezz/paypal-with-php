@@ -1,2 +1,2 @@
 # paypal-with-php
-Sistema de agamento via Paypal
+Integração paypal  com php e banco de dados
